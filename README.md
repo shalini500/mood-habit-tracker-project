@@ -11,7 +11,6 @@ A simple, responsive web app to track your daily mood and habits — built with 
 
 ## 🚀 Live Demo
 [Click here to open the website](https://shalini500.github.io/mood-habit-tracker/)
-(replace with your real link)
 
 ## 📦 Built With
 - HTML
@@ -19,4 +18,4 @@ A simple, responsive web app to track your daily mood and habits — built with 
 - JavaScript
 
 ## ✏️ Author
-- [Your Name](https://github.com/shalini500)
+- [Shalini](https://github.com/shalini500)
